@@ -15,16 +15,14 @@ Help keep this project open.
 
 ## <a name="question"></a> Got a Question or Problem?
 
-If you have questions about how to use this project, please open an issue [here](repo) with the concerned question and someone will get back soon.
+If you have questions about how to use this project, please open an issue [here](https://github.com/prakashdanish/yafo/issues) with the concerned question and someone will get back soon.
 
 ## <a name="issue"></a> Found an Issue?
 
 If you find a bug in the source code or a mistake in the documentation, you can help by
-submitting an issue [here](repo). Even better you can submit a Pull Request
+submitting an issue [here](https://github.com/prakashdanish/yafo/issues). Even better you can submit a Pull Request
 with a fix.
 
 ## <a name="feature"></a> Want a Feature?
 
-You can request a feature by submitting an issue [here](repo).
-
-[repo]: https://github.com/prakashdanish/yafo/issues
+You can request a feature by submitting an issue [here](https://github.com/prakashdanish/yafo/issues).
