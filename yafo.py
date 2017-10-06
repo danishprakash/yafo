@@ -1,7 +1,6 @@
 import os
 import shutil
 
-
 def createDirs():
     print('Current directory: ', os.getcwd())
     presets = ['Documents', 'Rest', 'Images', 'Compressed', 'Programs', 'Music', 'Movies', 'Scripts']
