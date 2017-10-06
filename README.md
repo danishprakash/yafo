@@ -1,2 +1,3 @@
-# organyzer
-wip
+# YAFO
+
+Yet Another File Organizer

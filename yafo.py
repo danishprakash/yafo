@@ -25,7 +25,7 @@ def organize(presets):
             continue
 
         for filename in filenames:
-            if filename.endswith('.pdf') or filename.endswith('.docx') or filename.endswith('.doc') or filename.endswith('.epub'):
+            if filename.endswith('.pdf') or filename.endswith('.docx') or filename.endswith('.doc') or filename.endswith('.epub') or filename.endswith('.tex'):
                 shutil.move(filename, (os.getcwd() + '/Documents/' + filename))
             elif filename.endswith('.png') or filename.endswith('.jpeg') or filename.endswith('jpeg'):
                 shutil.move(filename, (os.getcwd() + '/Images/' + filename))
