@@ -4,8 +4,6 @@
 <p align="center">
 <a href="https://asciinema.org/a/nCFfuGjTNggu2JS4HxX9Nvn8z"><img src="https://imgur.com/DlkebLm.gif" alt="Asciicast" width="734"/></a>
 </p>
-# 
-
 
 ## Installation
 ```bash
