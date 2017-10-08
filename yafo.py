@@ -40,7 +40,6 @@ def createDirs(ext, dirs):
     if ext:
         for item in ext:
             presets[item] = ''.join(dirs)
-    print(presets)
     
     '''
         Creating directories with the presets dictionary.
@@ -73,7 +72,6 @@ def organize(presets):
             i.e directories in the presets dictionary.
         '''
         if os.path.basename(folder) in presets.values() or os.path.basename(folder) == 'Rest':
-            print('in here')
             continue
 
         '''
@@ -102,3 +100,4 @@ def main():
     
 
 main()
+
